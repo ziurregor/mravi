@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mravi", "mravi\mravi.csproj", "{65DCEAAD-37E2-45E3-B76E-7B616E18B0DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DCEAAD-37E2-45E3-B76E-7B616E18B0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DCEAAD-37E2-45E3-B76E-7B616E18B0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DCEAAD-37E2-45E3-B76E-7B616E18B0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DCEAAD-37E2-45E3-B76E-7B616E18B0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850B4E69-64DC-4780-BCFD-9ACF38F2B0D9}
+	EndGlobalSection
+EndGlobal
