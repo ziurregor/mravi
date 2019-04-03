@@ -5,7 +5,7 @@ namespace mravi
     class Program
     {
         static void Main(string[] args)
-        {
+        {//// todo
 
             string line;
             while ((line = Console.ReadLine()) != null)
