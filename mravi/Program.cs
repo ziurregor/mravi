@@ -29,8 +29,8 @@ namespace mravi
                 string line = Console.ReadLine();
 
                 tests.Add(line);
-                int k = 0;
-                int j = 0;
+               // int k = 0;
+               // int j = 0;
 
                 //string[] split = line.Split(new char[] { ' ' }, StringSplitOptions.None);
                 //long a = Int64.Parse(split[0]);
